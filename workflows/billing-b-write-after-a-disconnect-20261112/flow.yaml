@@ -1,0 +1,19 @@
+# Workflow configuration
+agent_type: policy_agent
+config:
+    name: Billing B Write After A Disconnect 20261112
+    workflow_model_tiers:
+        agent: default
+        extraction: default
+created_by: 376ce37d-e932-4866-a6ac-1a29c6303f39
+current_version_number: 0
+deleted_at: null
+deployment_source: platform
+description: TP2 live write fixture created after organization A disconnected. Installation 181103638 remains linked to B.
+enterprise_id: 10ddd0c3-4471-4525-ac81-8b38e3358e7a
+name: Billing B Write After A Disconnect 20261112
+name_slug: billing-b-write-after-a-disconnect-20261112
+project_identifier: []
+required_permissions: []
+signal_config: {}
+vcs_repo_config: null
